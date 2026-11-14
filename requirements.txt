@@ -1,3 +1,4 @@
-pyTelegramBotAPI
-yt-dlp
+telethon
+cryptg
+yt-dlp[curl-cffi]
 Flask
