@@ -1,4 +1,3 @@
-telethon
-cryptg
+pyTelegramBotAPI
 yt-dlp[curl-cffi]
 Flask
